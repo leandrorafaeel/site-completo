@@ -33,7 +33,7 @@ $ git clone https://github.com/leandro-br/site-completo
 ```
 
 ## Autor: 
-<img  border-radius="50px" src="https://avatars.githubusercontent.com/u/68888493?s=460&u=e5b834dbaa421d2b2c0a4ccdbf48abce22e81a66&v=4" width="100px" alt="Leandro-Rafael-Imagem"/> 
+<img  border-radius="50%" src="https://avatars.githubusercontent.com/u/86384840?v=4" width="100px" alt="Leandro-Rafael-Imagem"/> 
 
 #### Leandro Rafael
 
@@ -44,4 +44,4 @@ $ git clone https://github.com/leandro-br/site-completo
 
 Este projeto está sob licença do MIT. Veja a licença para mais informações:
 
-[Veja o Copyright](https://github.com/leandro-br/site-completo/blob/master/LICENSE)
+[Veja o Copyright](https://github.com/leandrorafaeel/site-completo/blob/master/LICENSE)

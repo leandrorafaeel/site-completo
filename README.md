@@ -9,13 +9,13 @@ Esse projeto foi desenvolvido com o objetivo de colocar em prática meus conheci
 - Demo: [Clique aqui para ver esse projeto](https://leandrorafaeel.github.io/site-completo/)
 
 ## Desktop:
-<div align="center">
-    <img src="assets/media/prints/desktop.png" width="900px">
+<div align="left">
+    <img src="assets/media/prints/desktop.png" width="700px">
 </div>
 
 ## Mobile:
 <div align="left">
-    <img src="assets/media/prints/mobile.png" width="300px">
+    <img src="assets/media/prints/mobile.png" width="350px">
 </div>
 
 ## Tecnologias:

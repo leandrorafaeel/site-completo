@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o repositório abaixo
 
 ```
-git clone https://github.com/leandro.rafaeel/site-completo
+git clone https://github.com/leandrorafaeel/site-completo
 ```
 
 ## Autor: 

@@ -6,7 +6,7 @@
 
 Esse projeto foi desenvolvido com o objetivo de colocar em prática meus conhecimentos em HTML5, CSS3 & JAVASCRIPT puro. Nesse projeto eu simulo um portifólio de um desenvolvedor web. Aqui eu utilizo também Mobile First e FLEXBOX para deixar o site responsivo.
 
-- Demo: [Clique aqui para ver esse projeto](https://leandrorafaeel.github.io/site-completo/)
+* Demo: [Clique aqui para ver esse projeto](https://leandrorafaeel.github.io/site-completo/)
 
 ## Desktop:
 <div align="left">
@@ -21,15 +21,15 @@ Esse projeto foi desenvolvido com o objetivo de colocar em prática meus conheci
 ## Tecnologias:
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML5
-- CSS3
-- JAVASCRIPT
+* HTML5
+* CSS3
+* JAVASCRIPT
 
 ## Como usar:
+Clone o repositório abaixo
 
-```bash
-# Clone this repository
-$ git clone https://github.com/leandro-br/site-completo
+```
+git clone: https://github.com/leandro-br/site-completo
 ```
 
 ## Autor: 
